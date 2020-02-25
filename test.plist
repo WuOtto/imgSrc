@@ -29,7 +29,7 @@
 		<key>metadata</key>
 		<dict>
 			<key>bundle-identifier</key>
-			<string>com.SimBest.scc</string>
+			<string>com.zssyios.educiot.betaTest</string>
 			<key>bundle-version</key>
 			<string>2.0.5</string>
 			<key>kind</key>
