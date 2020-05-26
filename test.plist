@@ -11,13 +11,13 @@
 				<key>kind</key>
 				<string>software-package</string>
 				<key>url</key>
-				<string>http://educiot.org:2019/ios/src/EduciotZSSY.ipa</string>
+				<string>http://xxx:2019/ios/src/EduciotZSSY.ipa</string>
 			</dict>
 			<dict>
 				<key>kind</key>
 				<string>display-image</string>
 				<key>url</key>
-				<string>http://educiot.org:2019/ios/images/icon.png</string>
+				<string>http://xxx:2019/ios/images/icon.png</string>
 			</dict>
 			<dict>
 				<key>kind</key>
