@@ -29,13 +29,13 @@
 		<key>metadata</key>
 		<dict>
 			<key>bundle-identifier</key>
-			<string>com.zssyios.educiot.betaTest</string>
+			<string>xxxx</string>
 			<key>bundle-version</key>
 			<string>2.0.5</string>
 			<key>kind</key>
 			<string>software</string>
 			<key>title</key>
-			<string>育联网Test</string>
+			<string>Test</string>
 			<key>subtitle</key>
 			<string>测试版</string>
 		</dict>
